@@ -6,7 +6,7 @@ The CashFlow Compass dashboard tracks €2.58M in outstanding debts (16.38% of r
 ## Executive Summary
 CashFlow Compass is a comprehensive accounts receivable analytics solution that provides real-time visibility into outstanding debts, payment timelines, and debtor geographic distribution. This powerful dashboard enables finance teams to optimize collections strategies, prioritize follow-ups, and improve cash flow management across global operations.
 
-![Cashflow Compass Dashboard](Cashflow Compass.png)
+![Cashflow Compass Dashboard](Cashflow_Compass.png)
 
 ## Key Performance Indicators
 
